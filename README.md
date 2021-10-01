@@ -5,8 +5,7 @@ funcapsolver is a funcaptcha audio-solving module, which allows captchas to be i
 ## Table of Contents
 
 * [Examples](#Examples)
-* [Getting started](#getting-started)
-* [Documentation](#documentation)
+* [Installation](#installation)
 
 ## Installation
 
