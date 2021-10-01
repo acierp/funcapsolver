@@ -1,1 +1,4 @@
-
+SpeechRecognition
+requests
+string
+random
