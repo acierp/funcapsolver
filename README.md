@@ -1,4 +1,4 @@
-# `rpi` - rolimon's python interaction
+# `funcapsolver` 
 
 funcapsolver is a funcaptcha audio-solving module, which allows captchas to be interacted with and solved with the use of google's speech-recognition api.
 
@@ -10,7 +10,7 @@ funcapsolver is a funcaptcha audio-solving module, which allows captchas to be i
 
 ## Installation
 
-To pip install `rpi` from github:
+To pip install `funcapsolver` from github:
 
 ```bash
 pip install git+https://github.com/AcierP/rpi.git
